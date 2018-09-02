@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/OMSP/OMS/total.svg?style=for-the-badge)](https://github.com/OMSP/OMS)
+[![GitHub commits](https://img.shields.io/github/commits-since/OMSP/OMS/1.0.0.svg)](https://github.com/OMSP/OMS)
 
 # OMS Project
 
