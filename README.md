@@ -1,5 +1,8 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/OMSP/OMS/1.0.0.svg)](https://github.com/OMSP/OMS)
 
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/OMSP/OMS/)
+
+
 # OMS Project
 
 Open source content management solution.
