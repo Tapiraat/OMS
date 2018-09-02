@@ -1,6 +1,6 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/OMSP/OMS/1.0.0.svg)](https://github.com/OMSP/OMS)
 
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/OMSP/OMS/)
+[![Github All Releases](https://img.shields.io/github/downloads/OMSP/OMS/total.svg)](https://github.com/OMSP/OMS/)
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/OMSP/OMS/)
 
