@@ -1,6 +1,6 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/OMSP/OMS/1.0.0.svg)](https://github.com/OMSP/OMS)
 
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)](https://github.com/OMSP/OMS)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/OMSP/OMS.svg)](https://github.com/OMSP/OMS)
 
 [![Github All Releases](https://img.shields.io/github/downloads/OMSP/OMS/total.svg)](https://github.com/OMSP/OMS/)
 
