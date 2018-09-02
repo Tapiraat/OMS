@@ -2,7 +2,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/OMSP/OMS/total.svg)](https://github.com/OMSP/OMS/)
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/OMSP/OMS/)
+[![GitHub](https://img.shields.io/github/license/OMSP/OMS.svg)](https://github.com/OMSP/OMS/)
 
 
 # OMS Project
